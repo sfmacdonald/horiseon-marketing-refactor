@@ -31,10 +31,10 @@ After review of the provided code, improvements/revisions made to the code liste
 
 ## Usage
 
-The github repository may be found at https://github.com/sfmacdonald/horiseon-maketing-refactor
+The github repository may be found at https://github.com/sfmacdonald/horiseon-marketing-refactor
 
 The live URL for the working website is
 
 When accessed, the website should look reflect the following image:
 
-![Alt text](image.png)
+![Horiseon Website](<Screen Shot 2023-10-26 at 9.20.54 AM.png>)
