@@ -26,7 +26,7 @@ body {
     margin: 0;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,13 +37,13 @@ body {
     text-align: center;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-.header div ul li {
+.header nav ul li {
     display: block;
     margin-left: 25px;
     float: right;
