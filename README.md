@@ -33,7 +33,7 @@ After review of the provided code, improvements/revisions made to the code liste
 
 The github repository may be found at https://github.com/sfmacdonald/horiseon-marketing-refactor
 
-The live URL for the working website is
+The live URL for the working website is https://sfmacdonald.github.io/horiseon-marketing-refactor/
 
 When accessed, the website should look reflect the following image:
 
